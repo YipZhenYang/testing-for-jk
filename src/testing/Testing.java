@@ -15,7 +15,7 @@ public class Testing {
      */
     public static void main(String[] args) {
         
-        System.out.println("hello world");
+        System.out.println("hello wodiao ni rld");
         // TODO code application logic here
     }
     
