@@ -15,7 +15,11 @@ public class Testing {
      */
     public static void main(String[] args) {
         
+<<<<<<< Updated upstream
         System.out.println("hello wodiao ni rld");
+=======
+        System.out.println("hello wofkmsfrld");
+>>>>>>> Stashed changes
         // TODO code application logic here
     }
     
